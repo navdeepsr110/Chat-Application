@@ -1,5 +1,5 @@
 [build]
-  command = "CI='' node index.js"
+  command = "CI='' npm run build"
   publish = "/build"
   base ="/"
 
